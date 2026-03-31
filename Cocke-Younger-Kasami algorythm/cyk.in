@@ -1,0 +1,13 @@
+(((a+b)*(b+b)+(a+a*b)*(b*b+a))*((a+b)*(b+b)+(a+a*b)*(b*b+a)))*(((a+b)*(b+b)+(a+a*b)*(b*b+a))*((a+b)*(b+b)+(a+a*b)*(b*b+a)))
+S T
+S S+T
+T F
+T T*F
+F I
+F (S)
+I a
+I b
+I Ia
+I Ib
+I I0
+I I1
